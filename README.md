@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello there ! ⚔️
+- 🎓 Double Bachelor's in Mathematics 🧮 and Life Sciences 🌱
+-  Master's Student in Biostatistics & Bioinformatics 🧬💻
+-  Turning coffee ☕ into code 🚀 
 <!--
 **MaiDeme/MaiDeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
